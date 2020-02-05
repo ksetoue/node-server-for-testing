@@ -13,3 +13,8 @@ $ npm install
 ```
 $ npm run dev
 ```
+
+Use [ngrok](https://ngrok.com/) to create a tunnel:
+```
+$ ngrok http 9001
+```
