@@ -1,0 +1,28 @@
+{
+  "name": "server-for-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/Server.js",
+  "scripts": {
+    "test": "test",
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksetoue/node-server-for-testing.git"
+  },
+  "author": "ksetoue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksetoue/node-server-for-testing/issues"
+  },
+  "homepage": "https://github.com/ksetoue/node-server-for-testing#readme",
+  "dependencies": {
+    "detect-character-encoding": "^0.8.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
